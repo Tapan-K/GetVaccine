@@ -24,6 +24,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contributor
 
-<a href="https://github.com/ashish-devv/getvaccine/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ashish-devv/getvaccine" />
+<a href="">
+  <img src="" />
 </a>
